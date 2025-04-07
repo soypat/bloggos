@@ -1,0 +1,93 @@
+CMakeFiles
+*.CMakeFiles
+*.cmake
+*coverage.info
+*Cache.txt
+Makefile
+*.bin
+
+# CMake outputs.
+**Makefile
+CMakeFiles
+*.cmake
+**CMakeCache.txt
+**DS_Store
+*.json
+
+# Code coverage outputs.
+*.gcov
+*.gcda
+*.gcov.json.gz
+*.gcov.json
+coverage.info
+
+# genhtml output from coverage
+/home
+*.png
+*.css
+*.html
+
+
+# Enable Local files for testing.
+local
+local.c
+# Prerequisites
+*.d
+.vscode
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.bin
+*.uf2
+*.exe
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# CCGO build and object files
+*.sum
+*.mod
+*.go
