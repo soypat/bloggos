@@ -90,4 +90,3 @@ dkms.conf
 # CCGO build and object files
 *.sum
 *.mod
-*.go
